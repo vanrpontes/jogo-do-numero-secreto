@@ -26,6 +26,15 @@ Acesse e jogue diretamente no navegador:
 
 ---
 
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- ResponsiveVoice.js – TTS (Texto para Fala)
+
+---
+
 ## Estrutura do Projeto
 
 ```bash
@@ -41,9 +50,3 @@ jogo-do-numero-secreto/
 │   └── ...
 └── README.md          # Você está aqui :)
 
-## Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- ResponsiveVoice.js – TTS (Texto para Fala)
