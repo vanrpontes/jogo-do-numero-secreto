@@ -20,7 +20,7 @@ Acesse e jogue diretamente no navegador:
 - Gera um número secreto entre 1 e 10
 - Evita repetir números anteriores
 - Exibe dicas se o número é maior ou menor
-- Usa **texto para fala (TTS)** com a biblioteca [ResponsiveVoice](https://responsivevoice.org/)
+- Usa [ResponsiveVoice](https://responsivevoice.org/)
 - Botão de reinício para jogar novamente
 - Layout responsivo e visual moderno
 
@@ -40,3 +40,10 @@ jogo-do-numero-secreto/
 │   ├── Ruido.png
 │   └── ...
 └── README.md          # Você está aqui :)
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- ResponsiveVoice.js – TTS (Texto para Fala)
